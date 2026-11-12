@@ -3,6 +3,11 @@
 <h3 align="center">MBA Finance & Data Science and AI | Amity University Rajasthan</h3>
 
 <p align="center">
+  <a href="mailto:hardikpareek21@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/04-hardik-pareek/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Hardik-018&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
@@ -23,23 +28,26 @@
 - 💻 **Programming:** Python, C, C++.
 - 🤖 **AI & Data:** Google Gemini API, Machine Learning, Data Mining, BM25, Gradio.
 
-### 🚀 Featured Project
+### 🚀 Featured Projects
 
-**AI-Powered Data Mining Chatbot**
-
+**1. AI-Powered Data Mining Chatbot**
 An AI-powered study assistant built using Python, Google Gemini API, BM25 Information Retrieval and Gradio.
-
 - PDF-based question answering
-- Multiple study modes
+- Multiple study modes and quick revision features
 - Numerical problem assistance
-- Quiz and quick revision features
+🔗 <a href="https://github.com/Hardik-018/Data-Mining-Chatbot">Explore Project</a>
 
-🔗 <a href="https://github.com/Hardik-018/Data-Mining-Chatbot">Explore My Project</a>
+**2. Bank Loan Prediction Using Machine Learning**
+A predictive machine learning model to evaluate and predict bank loan approvals, bridging data science with financial risk assessment.
+- Built with Python and Machine Learning algorithms
+- Evaluates applicant data to forecast loan eligibility
+- Focuses on financial analytics and risk modeling
+🔗 <a href="https://github.com/Hardik-018/Bank-Loan-Prediction-Using-Machine-Learning">Explore Project</a>
 
 ### 📚 Currently Learning
 
 - C and C++
-- Machine Learning
+- Machine Learning Models
 - Data Science and AI Applications
 - Advanced Financial Analytics
 
@@ -52,14 +60,6 @@ An AI-powered study assistant built using Python, Google Gemini API, BM25 Inform
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
 </p>
-
-### 📫 How to Reach Me
-
-- 📧 Email: **hardikpareek21@gmail.com**
-- 💼 LinkedIn: <a href="https://www.linkedin.com/in/04-hardik-pareek/" target="_blank">linkedin.com/in/04-hardik-pareek</a>
-- 💻 GitHub: <a href="https://github.com/Hardik-018">Hardik-018</a>
----
-
 <p align="center">
   <i>Learning • Building • Analysing • Growing 🚀</i>
 </p>
